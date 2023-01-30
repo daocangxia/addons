@@ -24,7 +24,7 @@ map:
   - media:rw
 options:
   username: homeassistant
-  password: null
+  password: home1114
   workgroup: WORKGROUP
   compatibility_mode: false
   veto_files:
